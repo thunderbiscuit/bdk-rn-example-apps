@@ -1,0 +1,12 @@
+node_modules/
+
+# Android
+android/.gradle/
+android/build/
+android/app/.cxx/
+android/app/build/
+
+# iOS
+
+# bdk-rn tarball
+bdk-rn-*.tgz

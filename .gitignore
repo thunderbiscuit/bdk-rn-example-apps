@@ -7,6 +7,13 @@ android/app/.cxx/
 android/app/build/
 
 # iOS
+ios/build/
+ios/Pods/
+ios/**/*.xcuserstate
+ios/**/xcuserdata/
+ios/.xcode.env.local
 
 # bdk-rn tarball
 bdk-rn-*.tgz
+
+.DS_Store
